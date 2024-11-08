@@ -1,4 +1,4 @@
-# Data Analytics Project: Higher Education in Brazil in 2020
+# Higher Education in Brazil in 2020
 
 This project, developed as part of the Data Analytics course, aims to analyze the landscape of public higher education in Brazil in 2020. Using data from the National Institute of Educational Studies and Research Anísio Teixeira (Inep), the project encompasses multiple stages, from data collection and preparation to modeling and interactive visualization.
 
