@@ -12,7 +12,6 @@ This project offers in-depth insights into undergraduate course preferences and 
 Explore the interactive Power BI dashboard, which provides comprehensive insights into public higher education in Brazil for 2020. The dashboard features four main tabs, each focusing on different aspects of the data, allowing for detailed and customized analysis.
 
 ### [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTcxMjBmN2YtZWFhNS00YzA4LWE2NzEtNzRmZGQ3OWY5ZmE5IiwidCI6IjJkM2IxMDY0LTc1MDEtNDQ0NC04MzRlLTI2YmI2NjNkMzhmZSJ9&pageName=ReportSectione93835085c205b6e0c94)  
-*(https://app.powerbi.com/view?r=eyJrIjoiOTcxMjBmN2YtZWFhNS00YzA4LWE2NzEtNzRmZGQ3OWY5ZmE5IiwidCI6IjJkM2IxMDY0LTc1MDEtNDQ0NC04MzRlLTI2YmI2NjNkMzhmZSJ9&pageName=ReportSectione93835085c205b6e0c94)*
 
 
 1. **Menu**  
