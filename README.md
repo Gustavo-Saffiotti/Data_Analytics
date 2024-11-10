@@ -41,6 +41,10 @@ This project utilizes several tools for data preparation, modeling, and visualiz
 - **Power BI**: Used for creating interactive dashboards and visualizations.
 - **DAX (Data Analysis Expressions)**: Used in Power BI to create calculated measures and columns that help summarize and analyze the data effectively.
 
+## Project Documentation
+
+For a detailed view of all project stages, including data collection, preparation, modeling, and visualization, see the full project report here: [Higher Education in Brazil - Project Documentation (PDF)](Data_Analytics_Higher_Education_Data_2020___English.pdf).
+
 
 ## References
 
